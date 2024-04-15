@@ -2,7 +2,7 @@
 
 ---
 
-### Utilizing Python for Descriptive and Predictive modeling for Business Improvements 
+### Descriptive and Predictive modeling for Business Improvements 
 
 [Demand Forecasting](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
